@@ -9,3 +9,4 @@ A journal of the learning process showing what've been done so far
 * [CSS](https://tommalieh.github.io/Learning-Journal/C102C5)
 * [JavaScript](https://tommalieh.github.io/Learning-Journal/C102C6)
 * [How Computers Work](https://tommalieh.github.io/Learning-Journal/C102C6b)
+* [JavaScript 2.0](https://tommalieh.github.io/Learning-Journal/C102C7)
