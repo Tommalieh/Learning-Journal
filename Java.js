@@ -47,4 +47,3 @@ while (ques < 0){
 }
 
 validNum();
-a
